@@ -1,6 +1,6 @@
 Hi there! I am Phildeoner 👋
 ---
-SOCIAL CONTACT
+SOCIAL PROFILES
 ---
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yakubu-bobai-ephraim) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Phildeone?t=unuPgueZnf3fNfP5JqnRpg&s=09) [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/philip.bobai) [![Dribble Badge](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/phildeone)
 ---
