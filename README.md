@@ -2,7 +2,7 @@ Hi there! I am Phildeoner 👋
 ---
 SOCIAL CONTACT
 ---
-![Linkedin Logo](Linkedin.png =50x50)[Yakubu Bobai Ephraim](https://www.linkedin.com/in/yakubu-bobai-ephraim) ![Twitter logo](![image](Twitter.png =50x50)[@Phildeoner](https://twitter.com/Phildeone?t=unuPgueZnf3fNfP5JqnRpg&s=09)
+[![Linkedin Logo](Linkedin.png =50x50)[Yakubu Bobai Ephraim](https://www.linkedin.com/in/yakubu-bobai-ephraim)] [![Twitter logo](![image](Twitter.png =50x50)[@Phildeoner](https://twitter.com/Phildeone?t=unuPgueZnf3fNfP5JqnRpg&s=09)]
 ---
 A Little More About Me:
 ---
