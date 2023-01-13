@@ -20,9 +20,11 @@ const yakubuBobaiEphraim= {
 Here are some Languages and Tools I'm good at:
 ---
 ![Javascript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+----
+STATUS REPORT:
 ---
 [![Status badge](https://img.shields.io/badge/HIRING_STATUS-AVAILABLE-<COLOR>.svg)](https://shields.io/)
 ---
-STATUS REPORT:
+![Phildeoner's GitHub stats](https://github-readme-stats.vercel.app/api?username=Phildeoner&show_icons=true&theme=dark)
 ---
 💬 Ask me about anything [Here](https://github.com/Phildeoner/Phildeoner/issues)
