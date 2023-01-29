@@ -8,7 +8,7 @@ A Little More About Me:
 ---
 ```javascript
 const yakubuBobaiEphraim= {
-  lookingFor: "Front-end developer";
+  lookingFor: "Full-Stack developer";
   code: ["JavaScript", "HTML/CSS"];
   askMeAbout: ["Problem Solving", "Content Creation", "Music"],
   challenge: "I am hoping on building my ideas and skills on other tools like React and Ruby",
