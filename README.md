@@ -11,8 +11,8 @@ const yakubuBobaiEphraim= {
   lookingFor: "Frontend developer";
   code: ["React", "MERN Stack", "Nuxt 3", "JavaScript", "HTML/CSS"];
   askMeAbout: ["Problem Solving", "Content Creation", "Music"],
-  challenge: "I am hoping on building my ideas and skills on other tools like React and Ruby",
-  funFacts: ['I am willing and ready to advance in the tech world', 
+  challenge: "I am hoping on building my ideas and skills on other tools in the space to get better",
+  funFacts: ['I am willing and ready to advance in the Tech Space', 
   'I am available for offers']
 }
 ```
