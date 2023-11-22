@@ -6,7 +6,7 @@ SOCIAL PROFILES
 ---
 A Little More About Me:
 ---
-```python
+```javascript
 const yakubuBobaiEphraim= {
   lookingFor: "Frontend developer";
   code: ["React", "MERN Stack", "Nuxt 3", "JavaScript", "HTML/CSS"];
